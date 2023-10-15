@@ -1,6 +1,6 @@
 # Playflix - Ad-Free Entertainment Platform
 
-Hyperflix is a web application that provides a user-friendly platform for sharing and watching videos without any annoying ads. It aims to offer a seamless experience for both content creators and viewers.
+Playflix is a web application that provides a user-friendly platform for sharing and watching videos without any annoying ads. It aims to offer a seamless experience for both content creators and viewers.
 
 ## Features
 
@@ -21,7 +21,7 @@ Follow these steps to set up Hyperflix locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/maniteja0126/playflix.git
+   git@github.com:Maniteja0126/playflix.git
    cd playflix
    ```
 2. **Run the Application:**
